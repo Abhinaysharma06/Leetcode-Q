@@ -39,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
