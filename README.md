@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0912-sort-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0543-diameter-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
