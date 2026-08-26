@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
