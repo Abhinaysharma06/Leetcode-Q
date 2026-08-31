@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0881-boats-to-save-people) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
