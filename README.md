@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Timsort
 |  |
