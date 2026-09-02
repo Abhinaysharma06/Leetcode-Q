@@ -5,14 +5,15 @@ class Solution {
     int max=0;
    HashSet<Character>set=new HashSet<>();
    while(j<s.length()){
-    if(set.contains(s.charAt(j))){
-        set.remove(s.charAt(i));
-        i++;
-    }
-    else{ set.add(s.charAt(j));
+    if(!set.contains(s.charAt(j))){
+     set.add(s.charAt(j));
      max=Math.max(max,set.size());
     j++;
    }
+     else{
+        set.remove(s.charAt(i));
+        i++;
+    }
    }
    return max;
   
