@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0912-sort-an-array) |
+| [1306-jump-game-iii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1306-jump-game-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0543-diameter-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0226-invert-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
