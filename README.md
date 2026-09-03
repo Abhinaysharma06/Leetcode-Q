@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0912-sort-an-array) |
 | [1306-jump-game-iii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1306-jump-game-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3875-construct-uniform-parity-array-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0881-boats-to-save-people) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
