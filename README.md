@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0056-merge-intervals) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0036-valid-sudoku) |
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
