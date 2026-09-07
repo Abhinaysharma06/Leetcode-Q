@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0012-integer-to-roman) |
+| [0257-binary-tree-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0257-binary-tree-paths) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
 ## Greedy
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
