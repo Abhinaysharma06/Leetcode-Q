@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0137-single-number-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0012-integer-to-roman) |
+| [0079-word-search](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0257-binary-tree-paths) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0304-range-sum-query-2d-immutable) |
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
 ## Simulation
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0101-symmetric-tree) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0257-binary-tree-paths) |
 ## Design
 |  |
