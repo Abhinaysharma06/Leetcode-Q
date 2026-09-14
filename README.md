@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0055-jump-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
