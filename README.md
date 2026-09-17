@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0257-binary-tree-paths) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Memoization
 |  |
 | ------- |
