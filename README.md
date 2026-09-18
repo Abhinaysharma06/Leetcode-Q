@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0070-climbing-stairs) |
+| [0382-linked-list-random-node](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0382-linked-list-random-node) |
 | [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3870-count-commas-in-range) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0382-linked-list-random-node](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0382-linked-list-random-node) |
 ## Stack
 |  |
 | ------- |
@@ -330,4 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0918-maximum-sum-circular-subarray) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
