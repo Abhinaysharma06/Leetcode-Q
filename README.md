@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0257-binary-tree-paths) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0145-binary-tree-postorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0382-linked-list-random-node) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
