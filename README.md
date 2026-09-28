@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0918-maximum-sum-circular-subarray) |
 | [1306-jump-game-iii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1306-jump-game-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0304-range-sum-query-2d-immutable) |
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
