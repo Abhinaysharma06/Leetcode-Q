@@ -18,7 +18,7 @@ class Solution {
         return false;
     }
     char temp=board[row][col];
-    board[row][col]='#';
+     board[row][col]='#';
      boolean check=word(board,row+1,col,idx+1,word)||word(board,row-1,col,idx+1,word)||word(board,row,col+1,idx+1,word)||word(board,row,col-1,idx+1,word);
 
     board[row][col]=temp;
