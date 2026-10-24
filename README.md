@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3689-maximum-total-subarray-value-i) |
 ## Game Theory
 |  |
 | ------- |
