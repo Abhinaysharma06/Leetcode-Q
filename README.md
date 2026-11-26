@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0560-subarray-sum-equals-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0912-sort-an-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0918-maximum-sum-circular-subarray) |
 ## Timsort
 |  |
