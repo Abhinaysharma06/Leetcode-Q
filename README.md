@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0070-climbing-stairs) |
 | [0382-linked-list-random-node](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0382-linked-list-random-node) |
 | [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0198-house-robber) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
