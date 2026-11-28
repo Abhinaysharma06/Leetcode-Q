@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0070-climbing-stairs) |
 | [0382-linked-list-random-node](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0382-linked-list-random-node) |
+| [1137-n-th-tribonacci-number](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1137-n-th-tribonacci-number) |
 | [1927-sum-game](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1927-sum-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/3870-count-commas-in-range) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1137-n-th-tribonacci-number) |
 ## Timsort
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Abhinaysharma06/Leetcode-Q/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
